@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "citylegends-160615",
+  "private_key_id": "3757653fb6d88606f05261fb3786cf4cdfd00a20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCek9elVsgv+Asa\nwZaZAoM/dyrr1Yx4wAxtym5RsO0h7DYPgRhKMaYnWJloaowTPzBlz4BB+k0jk9cP\nsblcJkq00Ywa9KpR/0W+Ux+2KT4PKFnl5V/IGCjHbt6QGqb3jAMAE9gTwbZ/dpcb\nOHTZqODjtdBxtucPHLNEQpMo/mV2tE7yvtRtq641fTY4KM04n1CeWq/Io7sA5+lW\nDQn9UGO6NhBb57Hxd2QRf84Bh3iCpOIMqo0RTMiF4zQhytQSAtQQnDYbMq8dN20P\njNPdeATLs4BrdCweb1ZN5drsrxnC0F5EQVJz4NPh+afKyEaGwh6Nm347Lef9ak6X\n99+ZpHCXAgMBAAECggEADpi8OldlIOk7mHBmXNo6244sEL486mZ/HmIKSpG3Gi7E\ngSPYaQft6+Q/ZrmcAC+KVGzHuQsBq7sxihvJXJ6XtNIvC9ImlVqigFTlb96W/E0y\nDTPSX7g9lLHzYZ9abCHiqtCozJTBqDTxzsshEmH1pXA4aic0WJNDOw7HvffAvi7Q\njnNEaArysAThtPhVP0V8LIIBLcw+GjM5kf1uTMKhyl4FDNql0+yu6QZE7TceOIsE\n56PmYrZSW4prqdnfHDt7GE+im80w6kJ/XscoG+wNTk8ALuI+F/HqVsO6KS4lfTuG\n7AsOvvrJ84nCtIX+k1TLaF8RLNETKzlyoaNt4KrUmQKBgQDSpEVsB8mkwwDjOCcc\ng+jWTGYI166Ek7jjfDrJ5hPUSt3zG824ew4ahDTVYxiVZFXnlRMUP49PPbAB45YO\n78Thn7r3QmdlRgiAbiSOCMUXzHMxZaqCzWbo+w/OGTEVSwEO6Xq6UcadBp3J6szF\nx8kWK/xZB5hBLalWmmW6bmW6/wKBgQDAuYHhSYqWCq6qd/PYvZfs9qUz1v1oOoAQ\nz8jxw/p76f6eWTc0qKfuWK9Qp5j8uN/Wr6izQADcRY6eIIUloXFCrTGqqQTNZY/+\nNXfaFJoXL2dqH5er+2qSQdZfHXJRpPurzNjEI3ro0qvp1H6rverZRPpXDGehJ50+\nOEImsUtCaQKBgGmZTvBMqys9U3mV0g26l4SvgkuWjPgL8pmg0vwaqwA3lDNnUefV\nUQm8E5ySdGWYinRxyMHS525rV4xq4vSUAVi3Mgz5LkqYJHT2Qr8t6Fj49xrhg+zV\nOm08R/0jpfatxlcKd6tmibJ4+aubWZMhiE7kODsN0qeCU62F88/VvoxTAoGAYdQI\ntMYy3fTwMsIO+p9K5lNRCp6AJY9EgMQouWiE1q+xusmIt2dBT0CfRW69vtNNdFnY\nZZ0Aks+QFH5nd/GaX4Ew6/M959E9JYoYm4/HpCtA8GK3B+robvOSkNeOtxjrU4r5\nIZ7s/hAqidh+sEkIVF+qP9OhKvHD5NiD48YtcLkCgYEAnvymihbZ8UGNrzDaSuP8\nOX833EZVFtLRQWSi22gfsegUAdZR+OcwQz7Lpk8lmUQlnBOuAt2ZTnL3tU3caZlv\nZOQGJNjrEvR/3jn9GsypLdLTWQyEdtI1RBUY2Ufqnxyeh589eRKqSgTowMzctSex\n7zcMX0V444/21OEDuOK9c2M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubpoc@citylegends-160615.iam.gserviceaccount.com",
+  "client_id": "102183243168098338640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubpoc%40citylegends-160615.iam.gserviceaccount.com"
+}
